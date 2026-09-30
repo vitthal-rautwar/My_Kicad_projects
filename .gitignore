@@ -1,0 +1,7 @@
+*.bak
+*.lck
+*-bak
+~*
+*.kicad_prl
+.DS_Store
+Thumbs.db
